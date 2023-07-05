@@ -1,5 +1,7 @@
 # Individual-item-fairness
 
+This is the implementation of the paper titled "Providing Item-side Individual Fairness for Deep Recommender Systems" accepted by the ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2022. 
+
 We use the recommendation algorithms from the following links:
 
 CKE/KGAT: https://github.com/xiangwang1223/knowledge_graph_attention_network 
